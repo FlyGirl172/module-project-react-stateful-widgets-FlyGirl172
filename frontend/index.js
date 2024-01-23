@@ -19,6 +19,6 @@ root.render(
     <Spinner />
     <Input />
     <Squares />
-    <Programmers />
+    <Programmers /> 
   </>
 )
